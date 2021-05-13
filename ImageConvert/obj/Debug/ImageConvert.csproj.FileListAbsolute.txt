@@ -1,0 +1,15 @@
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\bin\Debug\ImageConvert.exe.config
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\bin\Debug\ImageConvert.exe
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\bin\Debug\ImageConvert.pdb
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\ImageConvert.csprojAssemblyReference.cache
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\MainWindow.g.cs
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\App.g.cs
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\ImageConvert_MarkupCompile.cache
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\ImageConvert_MarkupCompile.lref
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\MainWindow.baml
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\ImageConvert.g.resources
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\ImageConvert.Properties.Resources.resources
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\ImageConvert.csproj.GenerateResource.cache
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\ImageConvert.csproj.CoreCompileInputs.cache
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\ImageConvert.exe
+C:\Users\51510\source\repos\ImageConvert\ImageConvert\obj\Debug\ImageConvert.pdb
